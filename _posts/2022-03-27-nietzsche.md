@@ -1,3 +1,10 @@
+---
+layout: post
+title: Vereinsamt
+date: '2022-03-27T08:40:00.001-07:00'
+author: snaperski
+tags: nietzsche vereinsamt
+---
 ## Nietzsche "Vereinsamt"
 
 Kuulasin kosutavat Nietzschest ärgitatud vestlust "Tähenduste teejuhtide" sarjast:<br><br>
@@ -5,7 +12,7 @@ Kuulasin kosutavat Nietzschest ärgitatud vestlust "Tähenduste teejuhtide" sarj
 <br><br>
 Nietzsche aktuaalsus hetkel on tõesti määratu, on seda juba paarsada aastat olnud. Üks Nietzsche mälusahtel (lisaks Nietzsche tsitaadile "rahu ajal ründab tõeline sõdur iseennast") läks endalgi lahti: luuletus "Vereinsamt", mille tõlke tegin paar aastat tagasi; tegu on Nietzsche luuletusega, mis oma saksakeelses originaalis on mind sestsaadik seestanud. Ei anna endast naljalt hõlpu, 
 püsib latentse ähvardusena ka siis kui keskpäevapäike paistab.<br>
-
+<br>
 <pre>
 kisendavad varesed
 ja vihiseval lennul liginevad linna
