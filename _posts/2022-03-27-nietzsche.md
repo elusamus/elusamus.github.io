@@ -3,7 +3,7 @@ layout: post
 title: Vereinsamt
 date: '2022-03-27T08:40:00.001-07:00'
 author: snaperski
-tags: nietzsche vereinsamt
+tags: nietzsche vereinsamt ukraina
 ---
 ## Nietzsche "Vereinsamt"
 
