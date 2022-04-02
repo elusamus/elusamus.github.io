@@ -22,14 +22,15 @@ ja
 minu ase veel tunneb mind 
 ja
 padjalgi on minu nägu 
-pole küll sind ega sind
-kuid tean küll ju kus
+pole kyll sind ega sind
+hoopiski tean, kus
 on viimne inimene
 ja 
-esimene armastus
+kannatab armastus
 jah 
-sedagi ma tean
+sedagi kyllap tean
 kus surevad armastused
-ja elavad nugilised 
+kus elavad nugilised 
+
 tean, nutan ja nean
 </pre>
