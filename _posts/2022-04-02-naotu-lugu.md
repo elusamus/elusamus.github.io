@@ -23,14 +23,20 @@ minu ase veel tunneb mind
 ja
 padjalgi on minu nägu 
 pole kyll sind ega sind
-hoopiski tean, kus
-on viimne inimene
-ja 
-kannatab armastus
+siiski tean, 
+kust leida ligema
+ja kust
+kaugeima armastust
 jah 
-sedagi kyllap tean
-kus surevad armastused
-kus elavad nugilised 
-
-tean, nutan ja nean
+sedagi aga tean
+kuskandis kohub kohutav
+kus kogunevad nugilised 
+ja kus andis alla õigeusk
+tean, põlgan ja nean
+russki mir
+russki merzavets!
+vaid see on lohutav
+et saadeti nahhui
+ja varsti huil 
+pizdets!
 </pre>
