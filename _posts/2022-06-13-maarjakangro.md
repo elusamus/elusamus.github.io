@@ -1,3 +1,10 @@
+---
+layout: post
+title: Maarja Kangro liha
+date: '2022-06-13T08:40:00.001-07:00'
+author: snaperski
+tags: luule kannibalism
+---
 <pre>
 kas oled nuputanud
 kuidas maitseb maarja kangro liha?
