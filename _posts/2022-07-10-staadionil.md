@@ -15,11 +15,11 @@ ei jalal ega hingel pole pidet
 nii otsin tegelikkusega sidet - 
 kas lustin staadionil ma lõikusid või
 lõikab raadiokiir must võikusid?
-saingi viiludeks ja kesiganes mu ära sõi
+aih! saingi viiludeks ja kesiganes mu ära sõi
 ma tolle kurgulakke leemenduma lõin 
 ja soolepõhjast kostus kõrvu sosin:
 "ei Nikest nikastuda pole enam sinu asi"
-lõdvestun ning näpud pilsnerisse sasin
+allun, lõdvestun ning näpud pilsnerisse sasin
 
 (Heidelberg, Südstadt/Rohrbach)
 </pre>
