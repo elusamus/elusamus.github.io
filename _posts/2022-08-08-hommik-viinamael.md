@@ -1,4 +1,10 @@
 
+---
+layout: post
+date: 2022-08-08 08:40:00 GMT
+title: "Hommik viinamäel"
+author: snaperski
+---
 <pre>
 kui laisad pintslitõmbed
 jalad ärkavad veel asfaldil
