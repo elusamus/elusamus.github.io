@@ -3,7 +3,7 @@ layout: post
 title: Artiklivaramu
 date: '2020-05-16T08:40:00.001-07:00'
 tags: artiklivaramu
-published: true
+published: false
 ---
 Kuidas oleks elada riigis, kus avalikku teavet ei sünnitata mitte riigipalatite varjatuses, vaid otse meie silme all? 
 Kodanikkond poleks siin üksnes ämmaemandaks, kes vastsündinu esimeste hingetõmmete ja liigutuste uudishimulikuks tunnistajaks saab olla, vaid (pro)aktiivseks kaasakõnelejaks teabe kogu elukaarel, kus kvaliteetseks-küpseks teabeks kasvamise konarusi saavad kompamisi siluda kõik, kellel selleks silma. ***Kus viga näed laita, seal tule ja aita!*** viisil koosloome on sellisena üks artiklivaramu pakutavatest võimalustest, mille potentsiaal - veel alles pakitsevas olekus, - õide puhkemiseks riigikehandi moodustava kodanik-kloroplastide päikeseküllast sekkumislusti vajab. 
