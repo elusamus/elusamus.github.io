@@ -5,6 +5,7 @@ date: '2023-04-02T08:40:00.001-07:00'
 author: snaperski
 tags: ultra
 ---
+
 Hüpata kuristikku ja loota, et raskusjõud suunda muudab? Või urgitseda ennast järjekindlalt ussi kombel uuesti ellu, nendele eluradadele, kuhu päike ennast paista laseb. Kuskile pole kadunud elusolemise kihk, kuid see kibeleb hävitama. Tahaks ennast ja teisigi üles ehitada uuel kombel, väljuda kerre-ja pähekulunud olemisvormidest, tardunud ballastist. Olen siiski (lisaks jooksuolendile) ka puu, mis juurtpidi paikne on ja sureb sada surma selleks, et koorealune niinekiht elu edasi kannaks. Kui tuul kihutab, kiigutab see mu latva ja ma lendan linnu kombel kaugele ära. Kas piisavalt kaugele?
 <br/>Ultrajooksus (100K) põrusin ootamatult vara, piirdusin 60K-ga. Jalad ei kandnud ja kiirest algusest ning tuulisest ilmast sakutatud tahtekindlus vedas alt. Ühelt poolt tegi ebaõnnestumine alandlikumaks (koperdasin Ubstadt-Weiherist rongi peale nagu peksasaanud koer), kuid mingit suurt kurbust sellest ei sündinud. 100K tuleb ikka ära teha, olen nüüd veendunud ja näljasemgi.  
 Enne tuleb aga uuesti ja otsustavalt ellu ärgata. Olen mitmeti laiali ja pean end kokku koguma. Aga oh...see hommik ja lõhestatud süda. Ja surm kahe armastuse vahel. <i>Pure mo(u)rning.</i> Nagu südamesoppi sokutatud tulitav kartul. Hõõgub kõrvetavalt ja mul ei ole kohta, kus seda hoida.   
