@@ -5,7 +5,6 @@ date: '2023-04-02T06:40:00.001-07:00'
 author: snaperski
 tags: ultra uku
 ---
-
 ## Hapukurgisupp
 
 Hüpata kuristikku ja loota, et raskusjõud suunda muudab? Või urgitseda ennast järjekindlalt ussi kombel uuesti ellu, nendele eluradadele, kuhu päike ennast paista laseb. Kuskile pole kadunud elusolemise kihk, kuid see kibeleb hävitama. Tahaks ennast ja teisigi üles ehitada uuel kombel, väljuda kerre-ja pähekulunud olemisvormidest, tardunud ballastist. Olen siiski (lisaks jooksuolendile) ka puu, mis juurtpidi paikne on ja sureb sada surma selleks, et koorealune niinekiht elu edasi kannaks. Kui tuul kihutab, kiigutab see mu latva ja ma lendan linnu kombel kaugele ära. Kas piisavalt kaugele?
