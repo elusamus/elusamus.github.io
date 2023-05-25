@@ -7,4 +7,4 @@ tags: surm
 ---
 
 
-"Ning sellest ajast hargnevad mu ees vaid kõrvalised mahajäetud rajad". Kordasin seda lauset ja suhu jäi jälk maitse. Sülitasin selle jõuga endast välja, kuid too lärakas naases bumerangina ja lõikas mu pea otsast. Sestsaadik ongi mu jooksujalad peast lahutatud ja mul pole õnnestunud veel leida, kuhu mu süda kukkus.
+"Ning sellest ajast hargnevad mu ees vaid kõrvalised mahajäetud rajad". Kordasin seda lauset ja suhu jäi jälk maitse. Sülitasin selle jõuga endast välja, kuid too lärakas naases bumerangina ja lõikas mu pea otsast. Sestsaadik ongi mu jooksujalad peast lahutatud ja mul pole õnnestunud veel leida südame kukkumise kohta.
