@@ -9,6 +9,6 @@ tags: seen risoom mykoriisa
 
 <i>Ja koera nimi oli Muri.</i>
 <br><br>
-Seen ei sõidutanud kaugele, vaid heitis kui lapse männilatvadesse kiikuma. Mükoriisat pidi ladvas rippunult imetlesin veel, kuidas merre uppuv päike hiigelsuure punakuldse kuu välja võlus. Lapsed tulid randa mängima ja kadusid taas. Algas meilgi pikk rännak allilma ja kui nad just surnud pole, elatakse veel edasi. 
+Seen ei sõidutanud kaugele, vaid heitis mu kui lapse männilatvadesse kiikuma. Mükoriisat pidi ladvas rippunult imetlesin veel, kuidas merre uppuv päike hiigelsuure punakuldse kuu välja võlus. Lapsed tulid randa mängima ja kadusid taas. Algas meilgi pikk rännak allilma ja kui nad just surnud pole, elatakse veel edasi. 
 <br><br>
 <img src="../../../assets/images/IMG-4806.jpg"> 
