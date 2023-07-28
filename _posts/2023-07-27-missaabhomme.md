@@ -84,4 +84,4 @@ likviidsusest.<br><br>
 
 Säärastest ohtudest hoolimata - kui Dharmamasinat arendada väljaspool ikaroslikku
 päikeseihalust, lasen endas helliada üht lunaarsemat lootust, et sedasorti AI-st saab
-Eesti esimene kakssarvik, mis mõistab muuhulgas entroopilist tarkust - kesiganes
+Eesti esimene kakssarvik, mis mõistab muuhulgas entroopilist tarkust - kesiganes sünnib, sellel tuleb ka surra.
