@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Sind pole siin"
-date: 2023-08-13 17:45:15 GMT
+date: 2023-08-14 17:45:15 GMT
 ---
 <pre>
-et sind siin pole, kirja teel
+et sind siin pole, siis kirja teel
 ma kallan üksinduse paberile turja
 küll sirel kopsib aknaklaasidel
 kuid maiöö kutse mulle läheb nurja
