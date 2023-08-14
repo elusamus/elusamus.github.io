@@ -3,6 +3,13 @@ layout: page
 title: Meta
 permalink: /about/
 ---
+<pre>oma kauneimat luuletust
+ma kirja ei pannud
+kui tõusis ta sügavikust
+ei häält talle andnud
+
+Mascha Kaléko
+</pre><br>
 Ärkan üles. Keel peksleb suukoopas kaootilistes spasmides. Võtan kinni ja lõikan ära. Siis vaatan keeletõelust näppude vahel ja mõtlen: mida veel on mul kui inimesel jäänud öelda inimestele? Ilmselt suurt ei midagi. Võtan siiski keele näppude vahelt ja hammaste tagant välja ning: AUMMMMM! Ehmun isegi, kuidas vibratsioon penetreerub kõikjale ja kõigini. Olen ommistanud instrumendi, millega päevade lõpuni mängida; otsekui Krišna sõrmed flöödil liiguvad mu jalad, kärmelt ja tasa-tasa.
 
 ### Mina olen hea karjane
